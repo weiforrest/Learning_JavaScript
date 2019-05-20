@@ -1,0 +1,1 @@
+1. addLoadEvent.js — 管理启动事件响应队列。
